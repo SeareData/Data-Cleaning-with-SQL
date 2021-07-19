@@ -1,6 +1,7 @@
 
 
 	--Cleaning data in sql queries
+	--This is a data cleaning project for sunday July 18th/2021
 
             Select *
 			from Nash_hd
