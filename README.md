@@ -1,6 +1,9 @@
 # Data-Cleaning-with-SQL
-Introduction: Data cleaning is simply the process of identifying the incorrect,incomplete,incaccurate,irrelevant or missing part of the data and then modifying,replacing or 
-deleting them according to the neccessity, in this project we will do the following data cleaning tasks.
+
 (1) Standardize Date Format. 
 (2) Populate Property Address Data.
-(3)
+(3) Breaking Out Property Address Into Individual Columns(Address,City,State)
+(4) Breaking Out Owners Address Into Indivdual Columns(Address,City,State)
+(5) Changing "Y" and "N' to "Yes" and "NO" in "Sold as Vacant" Field.
+(6) Removing Duplicate Records.
+(7) Deleting Unused/Irrelevant Columns. 
